@@ -1,0 +1,9 @@
+{
+	"name": "ucwdemo-adf-01",
+	"location": "westus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "6f384981-56eb-42ea-a4ae-05aad0259804",
+		"tenantId": "8b681333-8b6b-4f1e-b855-a4bc43f68abb"
+	}
+}
